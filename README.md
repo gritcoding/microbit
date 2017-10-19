@@ -26,3 +26,4 @@ BBC micro:bit programming lessons
 * Use radio to communicate results between pairs of microbits
 
 
+Markdown guide: https://guides.github.com/features/mastering-markdown/
