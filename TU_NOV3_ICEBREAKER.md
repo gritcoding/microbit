@@ -1,6 +1,6 @@
-## Ice breaker
+# Ice breaker
 
-### Questions
+## Questions
 
 Use the microbit [Voting Machine](https://makecode.microbit.org/projects/voting-machine) program to ask students a set of Yes/No questions. For those that answer Yes, ask them to explain in their own words.
 
@@ -9,7 +9,7 @@ Use the microbit [Voting Machine](https://makecode.microbit.org/projects/voting-
 1. Do you know what is a microbit?
 1. Do you know how to play Rock, Paper, Scissors?
 
-### Play Rock, Paper Scissors
+## Play Rock, Paper Scissors
 
 * Girls pair up to play Rock, Paper, Scissors. Play 3 rounds, and who is the winner?
 * Ask them to think about how a computer would determine the winner or loser of a round; perhaps make a flow chart of the decisions.
