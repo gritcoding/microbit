@@ -22,9 +22,9 @@
 * Intro videos TBC
 * [Session 1](TU_NOV3_S1.md)
 
-### 3:20pm  Break
+### 3:30pm  Break
 
-### 3:30pm  Programming Session 2
+### 3:45pm  Programming Session 2
 
 * [Session 2](TU_NOV3_S2.md)
 
