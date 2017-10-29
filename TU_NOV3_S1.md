@@ -1,3 +1,5 @@
+# Session 1
+
 ## Getting Started
 
 * Startup Raspberry Pi.
