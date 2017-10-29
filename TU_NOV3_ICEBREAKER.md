@@ -12,5 +12,5 @@ Use the microbit [Voting Machine](https://makecode.microbit.org/projects/voting-
 ### Play Rock, Paper Scissors
 
 * Girls pair up to play Rock, Paper, Scissors. Play 3 rounds, and who is the winner?
-* Ask them to think about how a computer would determine the winner or loser of a round; perhaps make a flow chart of the decisions
-* Use microbits? Collect answers; play simple version of rock paper scissors
+* Ask them to think about how a computer would determine the winner or loser of a round; perhaps make a flow chart of the decisions.
+* Use microbit to play [Rock Paper Scissors](https://makecode.microbit.org/projects/rock-paper-scissors).
