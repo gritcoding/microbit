@@ -6,7 +6,7 @@
 
 ### 2:05pm  Ice Breaker
 
-TBD
+* [Ice Breaker](TU_NOV3_ICEBREAKER.md)
 
 ### 2:25pm  Office Tour
 
@@ -20,10 +20,13 @@ TBD
 ### 2:45pm  Programming Session 1
 
 * Intro videos TBC
+* [Session 1](TU_NOV3_S1.md)
 
 ### 3:20pm  Break
 
 ### 3:30pm  Programming Session 2
+
+* [Session 2](TU_NOV3_S2.md)
 
 ### 4:30pm  Wrap-up
 
@@ -32,30 +35,3 @@ TBD
 * Photos
 
 ### 5:00pm Students depart
-
-
-
-### Ice breaker
-
-* Girls pair up, with someone they don't know well to play rock paper scissors
-* Ask them to think about how a computer would determine the winner or loser of a round; perhaps make a flow chart of the decisions
-* Use microbits? Collect answers; play simple version of rock paper scissors
-
-### Programming Intro
-
-* Startup Raspberry Pi
-* Launch micro:bit coding website
-* Make a simple animation; loops, delays, decision: press buttons to change animations
-* Copy code to micro:bit
-* Share with class?
-
-### Rock Paper Scissors
-
-* Program a random number generator that shows 0 1 2 when micro:bit is shaken
-* Replace numbers with images of rock, paper, scissor
-* Introduce animation / delay when shaking
-* Use buttons to keep score: A+ B- AB reset?
-* Use radio to communicate results between pairs of microbits
-
-
-Markdown guide: https://guides.github.com/features/mastering-markdown/
