@@ -1,17 +1,31 @@
-TBC
+## Getting Started
 
-### Programming Intro
+* Startup Raspberry Pi.
+* Launch microbit coding website.
+* Let's Code -> Start Javascript Blocks Editor.
+* Click 'Getting Started'  (or find under ? Help) and follow instructions.
+* Learn to:
+  * Say Hello.
+  * Downloand to microbit.
+  * React to pressing buttons.
+  * Build a dice using Shake and Random number.
 
-* Startup Raspberry Pi
-* Launch micro:bit coding website
-* Make a simple animation; loops, delays, decision: press buttons to change animations
-* Copy code to micro:bit
-* Share with class?
+## Flashing Heart
 
-### Rock Paper Scissors
+* Projects -> Flashing Heart
+* Questions:
+  1. How can you slow down the animation?
+  1. Can you change the speed of the animation using the buttons?
+  1. Make your own animations -- something more exciting than a beating heart?
 
-* Program a random number generator that shows 0 1 2 when micro:bit is shaken
-* Replace numbers with images of rock, paper, scissor
-* Introduce animation / delay when shaking
-* Use buttons to keep score: A+ B- AB reset?
-* Use radio to communicate results between pairs of microbits
+## Rock Paper Scissors
+
+* Projects -> Rock Paper Scissors
+* Learn:
+  * How to set a variable.
+  * if / then / else logic.
+* Download to 2 microbits and play amongst yourselves.
+* Questions:
+  1. How do you know if the weapon has changed if the same weapon is used again?
+    * Hint: blank or show something else on shake, add a pause.
+  1. Use A B buttons to keep score, ie A to add, B to subtract
