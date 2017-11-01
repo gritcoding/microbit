@@ -19,7 +19,9 @@
 
 ### 2:45pm  Programming Session 1
 
-* Intro videos TBC
+* Intro videos
+  * [Pair Programming](https://www.youtube.com/watch?v=vgkahOzFH2Q)
+  * [Code Stars](https://www.youtube.com/watch?v=dU1xS07N-FA) (or play during break)
 * [Session 1](TU_NOV3_S1.md)
 
 ### 3:30pm  Break
