@@ -10,7 +10,7 @@
   * Say Hello.
   * Downloand to microbit.
   * React to pressing buttons. -- for eg; Press Button A to display temperature. Press Button B to display a Smiley face. 
-  * Learn about Random numbers. Display Random Numbers on by build a dice using Shake and Random number festure.
+  * Learn about Random numbers - Display Random Numbers by building a dice using Shake and Random number festure.
 
 ## Flashing Heart
 
