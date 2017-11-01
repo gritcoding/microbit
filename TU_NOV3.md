@@ -2,7 +2,7 @@
 
 ### 1:10pm  School out. Coach to ICC.
 
-### 1:45pm  Arrive at ICC. Lunch at CS.
+### 1:45pm  Arrive at ICC. Lunch.
 
 ### 2:05pm  Ice Breaker
 
@@ -32,6 +32,8 @@
 
 * Sharing
 * Feedback forms
+  * [Students](https://goo.gl/forms/bgeaw7p7OEgE5TQL2)
+  * [Volunteers](https://goo.gl/forms/xssG2EikOHP9VmMT2)
 * Photos
 
 ### 5:00pm Students depart
