@@ -33,6 +33,7 @@
 ### 4:30pm  Wrap-up
 
 * Sharing
+* Follow-ups? How to continue programming at home / school?
 * Feedback forms
   * [Students](https://goo.gl/forms/bgeaw7p7OEgE5TQL2)
   * [Volunteers](https://goo.gl/forms/xssG2EikOHP9VmMT2)
