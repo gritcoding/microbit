@@ -8,7 +8,7 @@
 * Click 'Getting Started'  (or find under ? Help) and follow instructions.
 * :bulb: Learn to:
   * Say Hello.
-  * Downloand to microbit.
+  * Download to microbit.
   * React to pressing buttons. -- for eg; Press Button A to display temperature. Press Button B to display a Smiley face. 
   * Learn about Random numbers - Display Random Numbers by building a dice using Shake and Random number festure.
 
