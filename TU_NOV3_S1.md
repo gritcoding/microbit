@@ -16,9 +16,9 @@
 
 * Projects -> Flashing Heart. Use the tutorial on microbit page to get started with this exercise. 
 * :question: Questions:
-  1. How can you slow down the animation?
-  1. Can you change the speed of the animation using the buttons?
   1. Make your own animations -- something more exciting than a beating heart?
+  1. How can you slow down the animation?
+  1. Can you change the speed of the animation using the buttons?  (learn to set a variable)
 
 ## Rock Paper Scissors
 
