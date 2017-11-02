@@ -3,8 +3,8 @@
 Build a game where you need to bring a moving dot (path chaser) to a fixed position on the board - let's call it a portal. The dot will move in the direction that the microbit board is tilted.
 
 ### Step 1
-Starting point in the game - let's place the portal in a random position on the board, and the moving dot in the middle. I will remember the position of the chaser with variabled "current_x" and "current_y" and the position of the portal with variables "portal_x" and "portal_y".
-> We can turn on or off a single point on the board without modifying the other lights by using the "plot" and "unplot" options in hte LED menu.
+Starting point in the game - let's place the portal in a random position on the board, and the moving dot in the middle. I will remember the position of the chaser with variables "current_x" and "current_y" and the position of the portal with variables "portal_x" and "portal_y".
+> We can turn on or off a single point on the board without changing the other lights by using the "plot" and "unplot" options in hte LED menu.
 
 ![set portal and chaser position](/Instructions/PathChaser/images/Setup_portal_chaser.png)
 
