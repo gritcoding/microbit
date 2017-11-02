@@ -10,7 +10,11 @@
   * :question: Questions:
   1. What happens if you press the button A again while the stopwatch is running? How can you fix the problem?
   2. If the stopwatch runs for a long time, it will become harder to knwo how many minutes pass. Can you change the code to display the lapsed seconds as minutes and seconds : 01:45 ?
-* etc
+* [Stopwatch advanced](/Instructions/Stopwatch_multiple_timers/Stopwatch_advanced.md) - Improve your stopwatch so it can count multiple intervals at once.
+* :bulb: Learn:
+  * Read and add values to an array.
+  * :question: Questions:
+   1. After the stopwatch is stopped (pressed button A+B), what happenes if you start it again? Press button A again and see if you can figure out what is happening.
 * etc
 
 ### Examples (to get your own ideas!)
