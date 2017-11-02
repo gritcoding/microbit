@@ -1,6 +1,6 @@
 # Path Chaser
 
-Build a game where you need to bring a moving dot (path chaser) to a fixed position on the board - let's call it a portal. The moving dot will move in the direction that the microbit board is tilted.
+Build a game where you need to bring a moving dot (path chaser) to a fixed position on the board - let's call it a portal. The dot will move in the direction that the microbit board is tilted.
 
 ### Step 1
 Starting point in the game - let's place the portal in a random position on the board, and the moving dot in the middle. I will remember the position of the chaser with variabled "current_x" and "current_y" and the position of the portal with variables "portal_x" and "portal_y".
