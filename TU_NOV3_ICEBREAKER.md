@@ -11,8 +11,8 @@ Ask students a set of Yes/No questions. For those that answer Yes, ask them to e
 
 1. Do you know the name of the building you are in?  (warm-up!)
 1. Do you know what is a Computer Programmer?
-  1. Who was the first computer programmer?
-  1. Who first called themselves a computer programmer?
+    1. Who was the first computer programmer?
+    1. Who first called themselves a computer programmer?
 1. Do you know what is a microbit?
 1. Do you know how to play Rock, Paper, Scissors?
 
