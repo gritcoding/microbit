@@ -24,6 +24,7 @@ Stop the count. When we press button B we want to check again the value of "runn
 ![stop count](/Instructions/Stopwatch/Display_end_time.png)
 
 Hey, we have a loop displaying some blinking lights? We need to stop the animation for now, until the next timer will be started by pressing button A. So let's mark that the stopwatch is no longer running.
-![stop animation and display count](/Instructions/Stopwatch/Stop_animation_and display_timer.png)
+
+![stop animation and display count](/Instructions/Stopwatch/Stop_animation_and_display_timer.png)
 
 
