@@ -30,7 +30,7 @@ We will need to make sure that the dot does not receive any coordinates outside 
 The game ends when the path chaser has found the portal. So after every move, we should check if the chaser position is the same as the portal position. We will use a loop to do that - we will blink and move the chaser dot only while the 2 locations are different.
 > Explore the Loop menu on the left - 2 of the loops can be used to read values from an array.
 
-![check portal found]((/Instructions/PathChaser/images/Location_limits.png)/Instructions/PathChaser/images/Condition_end.png)
+![check portal found](/Instructions/PathChaser/images/Condition_end.png)
 
 ### Step 5 - optional, you don't need to complete this step
 To make it easier to move blocks around, I separated all the instructions from step 3 into a Function. You can use the Advanced menu to create and call functions..
