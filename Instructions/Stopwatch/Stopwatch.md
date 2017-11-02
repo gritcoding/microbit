@@ -17,11 +17,11 @@ Once out timer starts, we might want to display some image so we can see that th
 
 ### Step 3
 Starting the count. When button A is pressed, we will check the value of "running time" and mark that the stopwatch is running.
-![start count](/Instructions/Stopwatch/Start_count.png)![start count](Instructions/Stopwatch/Start_count.png)
+![start count](/Instructions/Stopwatch/Start_count.png)
 
 ### Step 4
 Stop the count. When we press button B we want to check again the value of "running_time" and display the seconds. Because "running_time" is counted in miliseconds, we will substract the "running_time" value we remember at the start from the running_time value at the end and *divide by 1000*
-![stop count](Instructions/Stopwatch/Display_end_time.png)
+![stop count](/Instructions/Stopwatch/Display_end_time.png)
 
 Hey, we have a loop displaying some blinking lights? We need to stop the animation for now, until the next timer will be started by pressing button A. So let's mark that the stopwatch is no longer running.
 ![stop animation and display count](/Instructions/Stopwatch/Stop_animation_and display_timer.png)
