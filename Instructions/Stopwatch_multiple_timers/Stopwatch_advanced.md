@@ -1,4 +1,4 @@
-# Stopwatch with multiple counts
+# Stopwatch advanced
 
 
 So you learned how to build a stopwatch in our previous tutorial [Stopwatch](/Instructions/Stopwatch/Stopwatch.md).
