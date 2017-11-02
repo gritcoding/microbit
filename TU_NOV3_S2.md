@@ -13,4 +13,4 @@
 * [Acceleration](https://makecode.microbit.org/examples/plot-acceleration)
 * [Random LEDs](https://makecode.microbit.org/examples/rando)
 
-* [Lessons](https://makecode.microbit.org/lessons) Lots and lots more ideas!
+* [Lessons] - (https://makecode.microbit.org/lessons) Lots and lots more ideas!
