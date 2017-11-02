@@ -14,8 +14,16 @@
 * :bulb: Learn:
   * Read and add values to an array.
   * :question: Questions:
-   1. After the stopwatch is stopped (pressed button A+B), what happenes if you start it again? Press button A again and see if you can figure out what is happening.
-* etc
+   1. After the stopwatch is stopped (pressed button A+B), what happenes if you start it again? Press button A and see if you can figure out what is going on.
+* [PathChaser simple](/Instructions/PathChaser/PathChaser_simple.md) - Build a simple game using the microbit accelerometer
+* :bulb: Learn:
+  * Advanced input - accelerometer.
+  * Turning on / off a single led point
+  * Loop with pre-condition
+  * :question: Questions:
+   1. The portal is placed randomly on the board. What if the location on the portal is 2,2 - same as the initial location of the path chaser? Can we do something to make sure this never happens?
+   2. Can you change the code so that we can play more than once?
+   3. What other game features could we add - what about a pause button?
 
 ### Examples (to get your own ideas!)
 
