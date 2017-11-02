@@ -3,7 +3,13 @@
 ### Choose an Idea!
 
 * [Hot or Cold](https://makecode.microbit.org/projects/hot-or-cold) - In this game, players are looking for hidden micro:bit that emit radio signals. Skills: variables, logic, radio, arrays (advanced).
-* etc
+* [Stopwatch](/Instructions/Stopwatch/Stopwatch.md) - Build your own stopwatch.
+* :bulb: Learn:
+  * Advanced input values.
+  * Practice working with variables.
+  * :question: Questions:
+  1. What happens if you press the button A again while the stopwatch is running? How can you fix the problem?
+  2. If the stopwatch runs for a long time, it will become harder to knwo how many minutes pass. Can you change the code to display the lapsed seconds as minutes and seconds : 01:45 ?
 * etc
 * etc
 
