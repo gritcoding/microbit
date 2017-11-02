@@ -27,4 +27,4 @@ Hey, we have a loop displaying some blinking lights? We need to stop the animati
 
 ![stop animation and display count](/Instructions/Stopwatch/Stop_animation_and_display_timer.png)
 
-
+Excellent! you now have a stopwatch you can use to time yourself or your friends when running.
