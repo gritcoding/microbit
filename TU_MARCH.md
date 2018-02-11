@@ -1,6 +1,6 @@
 ## Microbit Homework before the actual day:
 
-Choose any topic from https://www.microbit.co.uk/blocks/lessons, develop it and bring your work along when you come to Credit Suisse.
+Choose any topic from https://www.microbit.co.uk/blocks/lessons, develop it and bring your work along (on your microbit) when you come to Credit Suisse.
 
 Some of the topics you can try are:
 1. "Rotation Animation" - using the commands you learned for "Flashing heart" and a more advanced command "while"
@@ -8,7 +8,9 @@ Some of the topics you can try are:
 3. "Glowing Pendulum" - remember or learn how to read the accelerometer
 4. "Hero" game - create your own game! Recommended for the students that are more advanced and confident in their skills.
 
-Recap some basic instructions on how to use your microbit: https://github.com/gritcoding/microbit/blob/master/TU_NOV3_S1.md      
+Recap some basic instructions on how to use your microbit: https://github.com/gritcoding/microbit/blob/master/TU_NOV3_S1.md  
+
+There will be **prizes** for best attempt!
 
 ## Research for the actual day:  
 
@@ -33,6 +35,6 @@ Reading:
 
  
 
-We will have some fun games to quiz you on the knowledge you gain from these readings.
+We will have some fun games to quiz you -- and a competition! -- on the knowledge you gain from these readings.
 
  
