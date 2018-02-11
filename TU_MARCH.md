@@ -10,7 +10,7 @@ Some of the topics you can try are:
 
 Recap some basic instructions on how to use your microbit: https://github.com/gritcoding/microbit/blob/master/TU_NOV3_S1.md  
 
-There will be **prizes** for best attempt!
+There will be **PRIZES** for best attempt!
 
 ## Research for the actual day:  
 
