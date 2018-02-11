@@ -14,7 +14,7 @@ Recap some basic instructions on how to use your microbit: https://github.com/gr
 
 In regards to the coming Women’s Day, we want you to learn about **Grace Hopper**, **Ada Lovelace** and their contribution to the computer as we see it today.
 
-Here are a few starter links for you to read on:
+Here are a few starter links for you to read on (please use Google to find your own stories!):
 
 Videos:
 
