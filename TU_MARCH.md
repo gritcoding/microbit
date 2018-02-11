@@ -1,4 +1,4 @@
-Homework before the actual day:
+## Microbit Homework before the actual day:
 
 Choose any topic from https://www.microbit.co.uk/blocks/lessons, develop it and bring your work along when you come to Credit Suisse.
 
@@ -10,11 +10,18 @@ Some of the topics you can try are:
 
 Recap some basic instructions on how to use your microbit: https://github.com/gritcoding/microbit/blob/master/TU_NOV3_S1.md      
 
-For the actual day:  
+## Research for the actual day:  
 
-In regards to the coming Women’s Day, we want you to learn about *Grace Hopper*, *Ada Lovelace* and their contribution to the computer as we see it today.
+In regards to the coming Women’s Day, we want you to learn about **Grace Hopper**, **Ada Lovelace** and their contribution to the computer as we see it today.
 
 Here are a few starter links for you to read on:
+
+Videos:
+
+* https://www.youtube.com/watch?v=Fg82iV-L8ZY
+* https://www.youtube.com/watch?v=FQ7FcNWBc20
+
+Reading:
 
 * http://grantland.com/hollywood-prospectus/the-difference-machine-ada-lovelace-grace-hopper-and-women-in-tech/
 
