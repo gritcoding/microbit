@@ -3,7 +3,8 @@ Content plan
 ## Ice breaker
 [Pair programming video](https://www.youtube.com/watch?v=vgkahOzFH2Q)
 
-## Getting started: [https://github.com/gritcoding/microbit/blob/master/TU_NOV3_S1.md]
+## Getting started:
+[https://github.com/gritcoding/microbit/blob/master/TU_NOV3_S1.md]
 
 ## Projects
 * "Hello <name>"
