@@ -10,5 +10,5 @@ Content plan
 * "Hello <name>"
 * Flashing Heart
 * Banana Keyboard [https://makecode.microbit.org/projects/banana-keyboard]
-* Door Lock [http://microbit.org/assets/documents/Bonus.MIW.Microbit.Lesson3.Door.pdf]
+* Door Lock [http://microbit.org/assets/documents/Bonus.MIW.Microbit.Lesson.3.Door.pdf]
 * Rock Paper Scissors
