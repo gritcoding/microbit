@@ -3,9 +3,11 @@
 ## Getting Started
 
 * Startup Raspberry Pi.
-* Launch microbit coding website.
-* Let's Code -> Start Javascript Blocks Editor.
-* Click 'Getting Started'  (or find under ? Help) and follow instructions.
+* Launch microbit coding website: https://microbit.org/
+* Let's Code -> MakeCode Editor -> Let's Code.
+* New Project
+* Rename Untitled to "Intro" or "Getting Started"
+* Get started (in a new tab or new window): https://makecode.microbit.org/tutorials/getting-started
 * :bulb: Learn to:
   * Say Hello.
   * Download to microbit.
