@@ -1,4 +1,4 @@
-# Teach Unlimited Nov 3 2017 Lesson Plan
+# Teach Unlimited 14 December 2018 Lesson Plan
 
 ### 1:15pm  School out. Coach to ICC.
 
@@ -26,13 +26,13 @@
   * [Code Stars](https://www.youtube.com/watch?v=dU1xS07N-FA) (or play during break)
 * [Session 1](TUF_DEC14_S1.md)
 
-### 3:45pm  Break
+### 3:55pm  Break
 
-### 4:00pm  Programming Session 2
+### 4:10pm  Programming Session 2
 
 * [Session 2](TUF_DEC14_S2.md)
 
-### 4:45pm  Wrap-up
+### 4:50pm  Wrap-up
 
 * Sharing / Demo
 * Follow-ups? How to continue programming at home / school?
@@ -41,4 +41,4 @@
   * [Volunteers](https://goo.gl/forms/xssG2EikOHP9VmMT2)
 * Photos
 
-### 5:15pm Students depart
+### 5:20pm Students depart
