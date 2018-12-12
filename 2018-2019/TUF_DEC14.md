@@ -1,42 +1,44 @@
 # Teach Unlimited Nov 3 2017 Lesson Plan
 
-### 1:10pm  School out. Coach to ICC.
+### 1:15pm  School out. Coach to ICC.
 
-### 1:45pm  Arrive at ICC. Lunch.
+### 1:45pm  Arrive at ICC.
 
-### 2:05pm  Ice Breaker
+### 1:55pm  Lunch
 
-* [Ice Breaker](TU_NOV3_ICEBREAKER.md)
+### 2:15pm  Ice Breaker
 
-### 2:25pm  Office Tour
+* [Ice Breaker](TUF_DEC14_ICEBREAKER.md)
+
+### 2:30pm  Office Tour
 
 * Teach Unlimited introdution to volunteers in Training Room.
 
-### 2:40pm  Training Room
+### 2:50pm  Training Room
 
 * Match pairs to volunteers.
 * Introductions.
 
-### 2:45pm  Programming Session 1
+### 3:00pm  Programming Session 1
 
 * Intro videos
   * [Pair Programming](https://www.youtube.com/watch?v=vgkahOzFH2Q)
   * [Code Stars](https://www.youtube.com/watch?v=dU1xS07N-FA) (or play during break)
-* [Session 1](TU_NOV3_S1.md)
+* [Session 1](TUF_DEC14_S1.md)
 
-### 3:30pm  Break
+### 3:45pm  Break
 
-### 3:45pm  Programming Session 2
+### 4:00pm  Programming Session 2
 
-* [Session 2](TU_NOV3_S2.md)
+* [Session 2](TUF_DEC14_S2.md)
 
-### 4:30pm  Wrap-up
+### 4:45pm  Wrap-up
 
-* Sharing
+* Sharing / Demo
 * Follow-ups? How to continue programming at home / school?
 * Feedback forms
   * [Students](https://goo.gl/forms/bgeaw7p7OEgE5TQL2)
   * [Volunteers](https://goo.gl/forms/xssG2EikOHP9VmMT2)
 * Photos
 
-### 5:00pm Students depart
+### 5:15pm Students depart
