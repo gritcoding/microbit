@@ -1,6 +1,11 @@
 # Session 2
 
+### Banana Keyboard
+* Everyone should start this session with the [Banana Keyboard](https://makecode.microbit.org/projects)
+
 ## Choose an Idea!
+
+
 
 ### Hot or Cold
 * [Hot or Cold](https://makecode.microbit.org/projects/hot-or-cold) - In this game, players are looking for hidden micro:bit that emit radio signals. 
@@ -30,11 +35,5 @@
    1. The portal is placed randomly on the board. What if the location on the portal is 2,2 - same as the initial location of the path chaser? Can we do something to make sure this never happens?
    2. Can you change the code so that we can play more than once?
    3. What other game features could we add - what about a pause button?
-
-### Examples (to get your own ideas!)
-
-* [Light Levels](https://makecode.microbit.org/examples/plot-light-level)
-* [Acceleration](https://makecode.microbit.org/examples/plot-acceleration)
-* [Random LEDs](https://makecode.microbit.org/examples/rando)
 
 * [Lessons](https://makecode.microbit.org/lessons) - Lots and lots more ideas!
