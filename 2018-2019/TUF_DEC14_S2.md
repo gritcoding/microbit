@@ -5,11 +5,8 @@
 
 ## Choose an Idea!
 
-
-
-### Hot or Cold
-* [Hot or Cold](https://makecode.microbit.org/projects/hot-or-cold) - In this game, players are looking for hidden micro:bit that emit radio signals. 
-* Skills: variables, logic, radio, arrays (advanced).
+* Pick something you like from [Projects](https://makecode.microbit.org/projects) or [Lessons](https://makecode.microbit.org/lessons).
+* OR follow one of our suggestions:
 
 ### Stopwatch
 * [Stopwatch](/Instructions/Stopwatch/Stopwatch.md) - Build your own stopwatch.
@@ -36,4 +33,6 @@
    2. Can you change the code so that we can play more than once?
    3. What other game features could we add - what about a pause button?
 
-* [Lessons](https://makecode.microbit.org/lessons) - Lots and lots more ideas!
+### Hot or Cold
+* [Hot or Cold](https://makecode.microbit.org/projects/hot-or-cold) - In this game, players are looking for hidden micro:bit that emit radio signals. 
+* Skills: variables, logic, radio, arrays (advanced).
