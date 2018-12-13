@@ -23,7 +23,9 @@
   * Read and add values to an array.
   * :question: Questions:
    1. After the stopwatch is stopped (pressed button A+B), what happenes if you start it again? Press button A and see if you can figure out what is going on.
-* [PathChaser simple](/Instructions/PathChaser/PathChaser_simple.md) - Build a simple game using the microbit accelerometer
+
+### Path Chaser
+* [Path Chaser simple](/Instructions/PathChaser/PathChaser_simple.md) - Build a simple game using the microbit accelerometer
 * :bulb: Learn:
   * Advanced input - accelerometer.
   * Turning on / off a single led point
