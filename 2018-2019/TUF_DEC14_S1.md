@@ -3,9 +3,11 @@
 ## Getting Started
 
 * Startup Raspberry Pi.
+  * :grey_exclamation: Plug-in power last
 * Launch microbit coding website: https://microbit.org/
 * Let's Code -> MakeCode Editor -> Let's Code.
 * New Project
+  * :grey_exclamation: Settings :gear: -> Reset  
 * Rename Untitled to "Intro" or "Getting Started"
 * Get started (in a new tab or new window): https://makecode.microbit.org/tutorials/getting-started
 * :bulb: Learn to:
@@ -16,7 +18,9 @@
 
 ## Flashing Heart
 
-* Projects -> Flashing Heart. Use the tutorial on microbit page to get started with this exercise. 
+* Tutorials -> Flashing Heart
+  * Use the tutorial on microbit page to get started with this exercise. 
+  * OR https://makecode.microbit.org/projects/flashing-heart 
 * :question: Questions:
   1. Make your own animations -- something more exciting than a beating heart?
   1. How can you slow down the animation?
@@ -25,6 +29,7 @@
 ## Rock Paper Scissors
 
 * Projects -> Rock Paper Scissors
+  * OR https://makecode.microbit.org/projects/rock-paper-scissors
 * :bulb: Learn:
   * How to set a variable.
   * if / then / else logic.
