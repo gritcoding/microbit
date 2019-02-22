@@ -1,3 +1,3 @@
 
 Milk Carton code:
-![Screenshot](milk_robot_code.png)
+![Screenshot](milk_robot_code.PNG)
