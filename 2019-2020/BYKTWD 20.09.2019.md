@@ -2,8 +2,7 @@
 
 ## Getting Started
 
-* Startup Raspberry Pi.
-  * :grey_exclamation: Plug-in power last
+* Start Chromebook
 * Launch microbit coding website: https://microbit.org/
 * Let's Code -> MakeCode Editor -> Let's Code.
 * New Project
@@ -19,17 +18,24 @@
 
 ## Tele-Potato
 
-* Tutorials -> Tele-Potato
+* Tutorial -> Tele-Potato
   * Use the tutorial on microbit page to get started with this exercise. 
   * OR https://makecode.microbit.org/projects/tele-potato
 * Kids can gather around to play tele-potato in a group
 
 ## LED Displays
 
-* Projects -> Love Meter
-  * OR https://makecode.microbit.org/projects/love-meter
+* Project -> Love Meter
+  * https://makecode.microbit.org/projects/love-meter
 * :question: Questions:
-  1. How to conditionally change the message displayed on the LED.
+  1. How to change the message displayed on the LED strip.
   1. Use buttons to change messages. 
 * Kids can build on top of this project to increase complexity
+
+## Extra Project
+
+### Hack Your Headphones
+
+* Tutorial: https://makecode.microbit.org/projects/hack-your-headphones
+
 
