@@ -23,13 +23,11 @@
   * OR https://makecode.microbit.org/projects/tele-potato
 * Kids can gather around to play tele-potato in a group
 
-## LED Displays
+## Neo-pixels
 
-* Project -> Love Meter
-  * https://makecode.microbit.org/projects/love-meter
-* :question: Questions:
-  1. How to change the message displayed on the LED strip.
-  1. Use buttons to change messages. 
+* Project -> Neo-pixel
+  * https://learn.adafruit.com/micro-bit-lesson-3-neopixels-with-micro-bit
+* Default project available for download
 * Kids can build on top of this project to increase complexity
 
 ## Extra Project
