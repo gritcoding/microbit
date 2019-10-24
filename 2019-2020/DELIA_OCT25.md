@@ -1,8 +1,5 @@
-# Session 1
-
 ## Getting Started
 
-* Start Chromebook
 * Launch microbit coding website: https://microbit.org/
 * Let's Code -> MakeCode Editor -> Let's Code.
 * New Project
@@ -14,26 +11,25 @@
   * Download to microbit.
   * React to pressing buttons. -- for eg; Press Button A to display temperature. Press Button B to display a Smiley face. 
   * Learn about Random numbers - Display Random Numbers by building a dice using Shake and Random number festure.
-  * Reference: https://makecode.microbit.org/reference 
+  * Reference:  https://makecode.microbit.org/reference 
+  * More ideas: https://makecode.microbit.org/tutorials/
+
+## Rock Paper Scissors
+
+* Tutorial -> Rock Paper Scissors
+  * Use the tutorial on microbit page to get started with this exercise. 
+  * OR https://makecode.microbit.org/projects/rock-paper-scissors
 
 ## Tele-Potato
 
 * Tutorial -> Tele-Potato
   * Use the tutorial on microbit page to get started with this exercise. 
   * OR https://makecode.microbit.org/projects/tele-potato
-* Kids can gather around to play tele-potato in a group
+* This exercise will require two microbits; you'll need to partner with another group.
 
-## Neo-pixels
+## Application for Javascript Programming Workshop
 
-* Project -> Neo-pixel
-  * https://learn.adafruit.com/micro-bit-lesson-3-neopixels-with-micro-bit
-* Default project available for download
-* Kids can build on top of this project to increase complexity
+![qrcode](DELIA_workshop_application.png)
 
-## Extra Project
-
-### Hack Your Headphones
-
-* Tutorial: https://makecode.microbit.org/projects/hack-your-headphones
-
+https://qrgo.page.link/5gcpL
 
