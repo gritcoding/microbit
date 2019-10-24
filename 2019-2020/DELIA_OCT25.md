@@ -2,7 +2,6 @@
 
 ## Getting Started
 
-* Start Chromebook
 * Launch microbit coding website: https://microbit.org/
 * Let's Code -> MakeCode Editor -> Let's Code.
 * New Project
@@ -14,7 +13,10 @@
   * Download to microbit.
   * React to pressing buttons. -- for eg; Press Button A to display temperature. Press Button B to display a Smiley face. 
   * Learn about Random numbers - Display Random Numbers by building a dice using Shake and Random number festure.
-  * Reference: https://makecode.microbit.org/reference 
+  * Reference:  https://makecode.microbit.org/reference 
+  * More ideas: https://makecode.microbit.org/tutorials/
+
+## 
 
 ## Tele-Potato
 
