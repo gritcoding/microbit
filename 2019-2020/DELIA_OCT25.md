@@ -1,5 +1,3 @@
-# Session 1
-
 ## Getting Started
 
 * Launch microbit coding website: https://microbit.org/
@@ -31,6 +29,7 @@
 
 ## Application for Javascript Programming Workshop
 
+![qrcode](DELIA_workshop_application.png)
 
-
+https://qrgo.page.link/5gcpL
 
