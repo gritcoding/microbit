@@ -1,3 +1,8 @@
+![qrcode](DELIA_OCT25.png)
+
+https://qrgo.page.link/iRbuj
+
+
 ## Getting Started
 
 * Launch microbit coding website: https://microbit.org/
