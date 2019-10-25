@@ -2,8 +2,8 @@
 
 Use pre-programmed microbits to play a [voting game](https://makecode.microbit.org/projects/voting-machine). The students will be asked some yes/no questions and will answer with a microbit by pressing A for Yes, and B for No. Two microbits will programmed to receive answers; one for Y answers and one for N answers. The girls' microbits will also be programmed to play [Rock Paper Scissors](https://makecode.microbit.org/projects/rock-paper-scissors) on shake.
 
-* [voting_send](/microbit/js/voting_send_with_rps.js)
-* [voting_receive](/microbit/js/voting_receive.js)
+* [voting_send](https://github.com/gritcoding/microbit/blob/master/js/voting_send_with_rps.js)
+* [voting_receive](https://github.com/gritcoding/microbit/blob/master/js/voting_receive.js)
 
 ## Questions
 
