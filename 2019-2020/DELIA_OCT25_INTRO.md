@@ -11,7 +11,10 @@ Ask students a set of Yes/No questions. For those that answer Yes, ask them to e
 
 1. Do you understand the instructions? (warm-up!)
 1. Do you know the name of the building you are in?  (more warm-up!)
+1. Credit Suisse is a German bank?
+1. We are here today to learn knitting? 
 1. The first computer programmer was a woman?
 1. The Apollo Moon mission was run by men?
-1. Do you know how to play Rock, Paper, Scissors?
 1. Show image of [black hole](https://www.bbc.com/news/science-environment-47873592). Do you know what this is?
+1. Python is better than Javascript?
+1. Do you know how to play Rock, Paper, Scissors?
