@@ -16,7 +16,7 @@ input.onGesture(Gesture.Shake, () => {
         . . . . .
         `)
     basic.pause(200)
-    weapon = Math.random(3)
+    weapon = Math.round(Math.random() * 4)
     if (weapon == 0) {
         basic.showLeds(`
             . . . . .
@@ -34,5 +34,5 @@ input.onGesture(Gesture.Shake, () => {
 radio.setGroup(64)
 radio.setTransmitSerialNumber(true)
 basic.forever(() => {
-	
+
 })
