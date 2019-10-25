@@ -18,3 +18,4 @@ Ask students a set of Yes/No questions. For those that answer Yes, ask them to e
 1. Show image of [black hole](https://www.bbc.com/news/science-environment-47873592). Do you know what this is?
 1. Python is better than Javascript?
 1. Do you know how to play Rock, Paper, Scissors?
+1. Do you know what is pair programming?
